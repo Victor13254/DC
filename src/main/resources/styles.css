@@ -1,0 +1,15 @@
+#agrupa{
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    padding: 24px;
+}
+#boton{
+     border-radius: 8px;
+     margin-bottom: 12px;
+     padding: 24px;
+ }
+body{
+    background-color: #f0ebf8;
+}
